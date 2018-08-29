@@ -1,0 +1,26 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "GraphQL Server with Apollo Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "babel-node index.js --presets es2015",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GraphQL",
+    "Apollo Server",
+    "Node.js",
+    "Playground"
+  ],
+  "author": "Vedat Erenoglu",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.0.5",
+    "graphql": "^0.13.2"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}

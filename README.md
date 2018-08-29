@@ -41,7 +41,7 @@ npm start
 * Open your browser and see the server running on `localhost:4000/graphql` with the GraphQL playground.
 
 ```js
-// write the qury in playground window to get the results
+// write the query in playground window to get the results
 
 {
   books  {
@@ -53,7 +53,7 @@ npm start
 ![screen shot 2018-08-29 at 21 02 00](https://user-images.githubusercontent.com/38211466/44809982-9bc92c80-abd0-11e8-9b8a-56a6cc8072a2.png)
 
 ```js
-// write the qury in playground window to get the results
+// write the query in playground window to get the results
 
 {
   books  {

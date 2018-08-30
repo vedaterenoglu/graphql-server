@@ -18,6 +18,25 @@ This repository is the example application for the [_Getting Started_ guide](htt
 * [**G**raphQL](https://graphql.org/): GraphQL as a query language for API
 * [**N**ode.js](https://nodejs.org): runtime environment
 
+> About Apollo Server
+
+> Apollo Server helps you build a GraphQL layer over your existing REST APIs and databases. It's simple to get started:
+> * Describe the data your services have with a schema
+> * Implement your schema with resolvers that fetch data from your existing backend
+> * Start your server! Apollo Server wires up everything for you.
+> * Apollo Server is written in JavaScript to enable cutting-edge features like caching, tracing, and execution on the edge.
+
+
+> About GraphQL
+> * GraphQL is a query language for your API, and a server-side runtime for executing queries by using a type system you define for your data. GraphQL isn't tied to any specific database or storage engine and is instead backed by your existing code and data.
+> * A GraphQL service is created by defining types and fields on those types, then providing functions for each field on each type.
+
+> About Node.js
+> * Node.js is an open source server environment
+> * Node.js is free
+> * Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+> * Node.js uses JavaScript on the server
+
 Other tools and technologies used:
 * [Babel](https://babeljs.io/docs/en/): It is used to convert ECMAScript 2015+ code into a backwards compatible version of JavaScript in current and older browsers or environments.
 
